@@ -1,4 +1,4 @@
-# 💫 About Me:
+    Hai i'm pavigowda
 I am an engineering student.<br>i currently learning c++
 
 
